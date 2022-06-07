@@ -1,0 +1,120 @@
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\App.g.cs
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.cache
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.lref
+E:\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+E:\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+E:\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+E:\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+E:\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+E:\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.g.resources
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+E:\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.lref
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.g.resources
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\studia\sem IV\Programowanie obiektowe i graficzne\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+E:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+E:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+E:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+E:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+E:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+E:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\App.g.cs
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.cache
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.lref
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.g.resources
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+E:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+F:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+F:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+F:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+F:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+F:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+F:\KALKULATOR\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\App.g.cs
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.cache
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.lref
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.g.resources
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+F:\KALKULATOR\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\App.g.cs
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.cache
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.lref
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.g.resources
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+F:\studia\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1_MarkupCompile.lref
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.g.resources
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\studia\sem IV\Programowanie obiektowe i graficzne\kalkulator\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
